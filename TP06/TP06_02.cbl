@@ -101,7 +101,7 @@
            USING WS-PERC-AUMENTO.
 
            10   LINE 27 COLUMN 28     FOREGROUND-COLOR  3 VALUE
-           "Desenvolvido por Matheus Palinkas e Joao Tavares".
+           "Desenvolvido por ÉRICA BARBOSA PEREIRA LOBO".
       *--------------------------------------------------------------*
        PROCEDURE DIVISION.
       *--------------------------------------------------------------*
