@@ -211,7 +211,7 @@
            MOVE DATE-NOW-FORMAT               TO WS-DT-EXEC.
            MOVE WS-COD-NEGOCIACAO             TO WS-COD-NEG.
            MOVE WS-NOMRES-LINE                TO WS-NOME-RESUMIDO.
-           MOVE "MATHEUS PALINKAS E JOAO TAVARES"
+           MOVE "ÉRICA BARBOSA PEREIRA LOBO"
                                               TO WS-NOME-EXEC-PROGRAM.
            MOVE WS-EXP-CABECALHO              TO REG-EXTRACAO.
 
